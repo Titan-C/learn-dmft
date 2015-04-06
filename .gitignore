@@ -13,7 +13,10 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+<<<<<<< HEAD
 .eggs/
+=======
+>>>>>>> ref/master
 lib/
 lib64/
 parts/
@@ -55,3 +58,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# execution outputs
+*.png
+*.npy
+*.npz
+*.mp4
+*.dat
+*.h5
